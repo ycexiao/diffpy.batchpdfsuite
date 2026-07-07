@@ -1,8 +1,8 @@
 {
   "author_names": "Yuchen Xiao, Simon Billinge",
   "author_emails": "yx2924@columbia.edu, sbillinge@ucsb.edu",
-  "maintainer_names": "Yuchen Xiao, Simon Billinge",
-  "maintainer_emails": "yx2924@columbia.edu, sbillinge@ucsb.edu",
+  "maintainer_names": "Simon Billinge",
+  "maintainer_emails": "sbillinge@ucsb.edu",
   "maintainer_github_usernames": "sbillinge",
   "contributors": "Yuchen Xiao and members of the diffpy.batchpdfsuite community",
   "license_holders": "contributors to the diffpy.batchpdfsuite community",

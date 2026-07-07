@@ -44,7 +44,6 @@ Table of contents
    :maxdepth: 2
 
    getting-started
-   Package API <api/diffpy.batchpdfsuite>
    release
    license
 

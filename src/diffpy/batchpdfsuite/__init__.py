@@ -12,7 +12,7 @@
 # See LICENSE.rst for license information.
 #
 ##############################################################################
-"""GUI for batch refinements of multiple PDF datasets"""
+"""GUI for batch refinements of multiple PDF datasets."""
 
 # package version
 from diffpy.batchpdfsuite.version import __version__  # noqa

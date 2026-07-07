@@ -10,7 +10,6 @@ authors = [
   {name='Simon Billinge', email='sbillinge@ucsb.edu'},
 ]
 maintainers = [
-  {name='Yuchen Xiao', email='yx2924@columbia.edu'},
   {name='Simon Billinge', email='sbillinge@ucsb.edu'},
 ]
 description = "GUI for batch refinements of multiple PDF datasets"
